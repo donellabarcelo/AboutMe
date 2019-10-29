@@ -10,3 +10,5 @@ var herAge = 23
 
 let dateOfMarriage = "November 1, 2020"
 
+let favoriteFood = "Pizza"
+
